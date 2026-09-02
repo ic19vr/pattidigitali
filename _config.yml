@@ -1,0 +1,39 @@
+title: Patti Digitali IC19 Verona
+description: >-
+  Sito realizzato nell'ambito del progetto Patti digitali dell'Istituto comprensivo 19 Verona
+author: Comitato Genitori e insegnanti IC19 VR
+lang: it
+
+# IMPORTANTE: se pubblichi su https://<utente>.github.io/<nome-repo>/
+# imposta baseurl con "/<nome-repo>" (con lo slash iniziale, senza slash finale).
+# Se invece il repo si chiama <utente>.github.io, lascia baseurl vuoto.
+baseurl: "pattidigitali"
+url: ""
+
+# Voci della barra di navigazione laterale.
+# Aggiungi o rimuovi elementi qui: si aggiornano automaticamente ovunque.
+nav_items:
+  - title: Home
+    url: /
+  - title: Cosa sono i patti digitali
+    url: /patti-digitali-cosa-sono/
+  - title: Decalogo primaria
+    url: /decalogo-primaria/
+  - title: Decalogo secondaria
+    url: /decalogo-secondaria/
+  - title: Approfondimenti per la primaria
+    url: /patto-digitale-primaria-approfondimenti/
+  - title: Approfondimenti per la secondaria
+    url: /patto-digitale-secondaria-approfondimenti/
+  - title: Bibliografia
+    url: /bibliografia/
+
+
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
