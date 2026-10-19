@@ -21,6 +21,6 @@ Per ogni punto dei decaloghi vengono resi disponibili materiali di approfondimen
 
 In aggiunta a decaloghi e schede di approfondimento, viene realizzato un archivio di titoli di libri, articoli di giornale, articoli scientifici, etc. per chi volesse approfondire ulteriormente il tema.
 
-Per maggiori informazioni sui materiali e sulle attività del gruppo di lavoro potete inviare una mail a [comitatogenitoriguarino@gmail.com](mailto:comitatogenitoriguarino@gmail.com)
+Per maggiori informazioni sui materiali e sulle attività del gruppo di lavoro potete inviare una mail a [pattidigitali@ic19verona.edu.it](mailto:pattidigitali@ic19verona.edu.it)
 
 La partecipazione al gruppo di lavoro è libera e chiunque abbia tempo e competenze da dedicare sarà il benvenuto.
