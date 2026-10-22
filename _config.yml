@@ -25,6 +25,8 @@ nav_items:
     url: /patto-digitale-primaria-approfondimenti/
   - title: Approfondimenti per la secondaria
     url: /patto-digitale-secondaria-approfondimenti/
+  - title: Diario di progetto
+    url: /diario/
   - title: Bibliografia
     url: /bibliografia/
 
